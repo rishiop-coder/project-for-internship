@@ -9,7 +9,7 @@
   "name": "figma",
   "scripts": {
     "start": "parcel ./*.html ",
-    "build": "parcel build ./*.html  --dist-dir ./build"
+    "build": "parcel build index.html --dist-dir ./build"
   },
   "version": "1.0.0"
 }
