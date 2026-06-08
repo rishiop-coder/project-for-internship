@@ -8,8 +8,8 @@
   "license": "ISC",
   "name": "figma",
   "scripts": {
-    "start": "parcel ./*.html ",
-    "build": "parcel build index.html --dist-dir ./build"
+    "start": "parcel index.html",
+    "build": "parcel build index.html"
   },
   "version": "1.0.0"
 }
